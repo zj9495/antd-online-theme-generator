@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/antd-online-theme-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/antd-online-theme-generator/static/js/main.4dd1f874.chunk.js",
+    "main.js.map": "/antd-online-theme-generator/static/js/main.4dd1f874.chunk.js.map",
+    "runtime-main.js": "/antd-online-theme-generator/static/js/runtime-main.207c66bc.js",
+    "runtime-main.js.map": "/antd-online-theme-generator/static/js/runtime-main.207c66bc.js.map",
+    "static/js/2.a5152a86.chunk.js": "/antd-online-theme-generator/static/js/2.a5152a86.chunk.js",
+    "static/js/2.a5152a86.chunk.js.map": "/antd-online-theme-generator/static/js/2.a5152a86.chunk.js.map",
+    "index.html": "/antd-online-theme-generator/index.html",
+    "precache-manifest.8505731aec6dc13ed7d35338225b2fcd.js": "/antd-online-theme-generator/precache-manifest.8505731aec6dc13ed7d35338225b2fcd.js",
+    "service-worker.js": "/antd-online-theme-generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/antd-online-theme-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a5152a86.chunk.js.LICENSE.txt": "/antd-online-theme-generator/static/js/2.a5152a86.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/antd-online-theme-generator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.207c66bc.js",
+    "static/js/2.a5152a86.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4dd1f874.chunk.js"
+  ]
+}
